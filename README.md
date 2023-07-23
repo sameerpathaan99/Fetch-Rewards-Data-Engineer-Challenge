@@ -39,7 +39,7 @@ Now to proceed with the development of the application, we can go forward easily
 
 ## Development, Execution and Validation
 ### Development
-1. write a executable python code - code.ipynb
+1. write a executable python code - [code.ipynb][https://github.com/sameerpathaan99/Fetch-Rewards-Data-Engineer-Challenge/blob/main/code.ipynb]
 2. Established connections with the AWS SQS Queue using the boto3 library and with the local PostgreSQL database using the psycopg2 library.
 3. Created a helper function mask_pii to hash the 'device_id' and 'ip' fields for data security and privacy.
 4. Transformed app_version field to an integer format.
